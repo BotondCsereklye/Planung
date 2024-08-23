@@ -5,6 +5,7 @@
 2. 2702 und 6906 Modul 319 (implizit unnd explizit und EVA prinzip)
 
 Zielerrreichung und Reflexion
+1. abgelenkt nicht bei der sache 1707-1709 gemacht und 2702 angefangen.
 
 ## 16.08 
 1. 1704-1708 Modul 431
