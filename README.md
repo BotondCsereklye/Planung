@@ -1,39 +1,10 @@
-# Planung
-# Tag 2
-LA_431_1704
-LA_431_1705
-LA_431_1706
-LA_431_1707
-ziele erreicht anfang 1708
+#Plannung 
 
-# Tag 3
-HZ 2
-LA_431_1708
-LA_431_1709
-LA_431_1710
-LA_431_1713
+##23.08 
+1. 1707-1709 Modul 431
+2. 2702 und 6906 Modul 319 (implizit unnd explizit und EVA prinzip)
+Zielerrreichung und Reflexion
 
-# Tag 4
-LA_431_1715
-HZ 3
-LA_431_1717
-LA_431_1718
-LA_431_1719
-
-# Tag 5 
-LA_431_1720
-LA_431_1721
-HZ 4
-LA_431_1722
-LA_431_1723
-
-# Tag 6
-LA_431_1724
-LA_431_1725
-LA_431_1726
-LA_431_1727
-
-# Tag 7
-LA_431_1728
-LA_431_1730
-LA_431_1731
+##16.08 
+1. 1704-1708 Modul 431
+Zielerrecihung und Reflexion
