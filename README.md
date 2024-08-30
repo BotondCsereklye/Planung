@@ -1,5 +1,9 @@
 # Plannung 
 
+## 30.08
+1. 1709-17013
+2. -
+
 ## 23.08 
 1. 1707-1709 Modul 431
 2. 2702 und 6906 Modul 319 (implizit unnd explizit und EVA prinzip)
