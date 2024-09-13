@@ -4,6 +4,9 @@
 1. video 1709 14:00-15:00
 2. 1721, 1713, 1706
 
+3. Arrays und handling 15:00 fertig
+4. 1719 angefangen
+
 ## 06.09.2024
 1. 1706, 1713, 1716
 2. 1706 fertig
