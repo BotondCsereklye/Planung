@@ -1,5 +1,11 @@
 # Plannung 
+## 20.09.2024
+1. 1706
+2. funktionen
+3. 1713
 
+4. funktionen fertig
+5. 1706 fertig
 ## 13.09.2024
 1. video 1709 14:00-15:00
 2. 1721, 1713, 1706
