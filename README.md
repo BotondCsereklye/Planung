@@ -1,4 +1,7 @@
-# Plannung 
+# Plannung
+
+## 18.10.2024
+1.
 ## 20.09.2024
 1. 1706
 2. funktionen
@@ -20,15 +23,16 @@
 ## 30.08
 1. 1709-17013
 2. -
-
-## 23.08 
+3. 1709, 1710, 1711 fertig
+   
+## 23.08.2024
 1. 1707-1709 Modul 431
 2. 2702 und 6906 Modul 319 (implizit unnd explizit und EVA prinzip)
 
 Zielerrreichung und Reflexion
 1. abgelenkt nicht bei der sache 1707-1709 gemacht und 2702 angefangen.
 
-## 16.08 
+## 16.08.2024
 1. 1704-1708 Modul 431
 
 Zielerrecihung und Reflexion
