@@ -5,17 +5,16 @@
 2.Notenrechner 
 3.Rechner
 Zielerrreichung und Reflexion
-Rechner fertig nicht konzentriert
+1. Rechner fertig nicht konzentriert
 ## 20.09.2024
 1. 1706
 2. funktionen
 3. 1713
-   Zielerrreichung und Reflexion
-1. Ziele nicht geschaft nur halb fertig wenig Konzentriert gearbeitet mit viel ablenkung
 Zielerrreichung und Reflexion
-   funktionen fertig
-   1706 fertig
-   wenig konzenntriert geschaffen
+1. Ziele nicht geschaft nur halb fertig wenig Konzentriert gearbeitet mit viel ablenkung
+2. funktionen fertig 
+3. 1706 fertig
+wenig konzenntriert geschaffen
 ## 13.09.2024
 1. video 1709 14:00-15:00
 2. 1721, 1713, 1706
