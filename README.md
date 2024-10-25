@@ -3,6 +3,9 @@
 1.Notenrechner
 2.Debuging
 
+Zielerrreichung und reflexion 
+- sehr konzentriert viel gearbeitet 6909, 6912, 69014, 69016
+
 ## 18.10.2024
 1.Debuging
 2.Notenrechner 
