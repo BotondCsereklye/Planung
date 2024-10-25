@@ -1,4 +1,7 @@
 # Plannung
+## 25.10.2024
+1.Notenrechner
+2.Debuging
 
 ## 18.10.2024
 1.Debuging
