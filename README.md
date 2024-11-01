@@ -5,7 +5,11 @@
 2. 6914
 3. portfolio
 4. 162_1711
-
+Zielerreichung und reflexion
+1. 319_6950 fertig
+2. 319_6914 fertig
+3. portfoliofertig
+- konzentriert gearbeitet 
 ## 25.10.2024
 1.Notenrechner
 2.Debuging
