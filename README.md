@@ -1,4 +1,11 @@
 # Plannung
+
+## 1.11.2024
+1. 319_6950
+2. 6914
+3. portfolio
+4. 162_1711
+
 ## 25.10.2024
 1.Notenrechner
 2.Debuging
