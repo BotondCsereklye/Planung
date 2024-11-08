@@ -5,7 +5,7 @@
 2. 6914
 3. portfolio
 4. 162_1711
-Zielerreichung und reflexion
+- Zielerreichung und reflexion
 1. 319_6950 fertig
 2. 319_6914 fertig
 3. portfoliofertig
