@@ -4,7 +4,10 @@
 1. Projekt pap design
 2. 162_1723
 3. Projekt mit Andrin besprechen und dem Kunden schreiben
-   
+- reflexion und ziel erreichung
+1. projekt besprochen und fetig gestellt
+2. 162_1723 fertif
+3. pap design noch nicht detalliert genug aber ein guter anfang
 ## 8.11.2024
 1. 162_1711
 2. 162_1721
