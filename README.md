@@ -1,4 +1,7 @@
 # Plannung
+## 22.11.2024
+1. 6954 fertig stellen
+
 
 ## 15.11.2024
 1. Projekt pap design
