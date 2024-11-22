@@ -1,7 +1,8 @@
 # Plannung
 ## 22.11.2024
 1. 6954 fertig stellen
-
+2. 6955 anschauen
+3. 6945 kontrollieren ob richtig
 
 ## 15.11.2024
 1. Projekt pap design
