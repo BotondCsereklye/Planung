@@ -1,4 +1,8 @@
 # Plannung
+
+## 29.11.2024
+1. powerpoint presentation zum projekt warscheinlich 4 stunden
+2. falls noch zeit übrig bleibt, dann komplexe und einfache datenmodelle repetieren
 ## 22.11.2024
 1. 6954 fertig stellen
 2. 6955 anschauen
