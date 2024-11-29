@@ -3,6 +3,10 @@
 ## 29.11.2024
 1. powerpoint presentation zum projekt warscheinlich 4 stunden
 2. falls noch zeit übrig bleibt, dann komplexe und einfache datenmodelle repetieren
+- reflexion und zielerreichung
+  1. grafikkarten probleme treiber musste neu aktualisiert werden in der Pause
+  2. pp presentation fertig, von Andrin video und Websiten Link zugeschickt beckommen
+  3. es blieb keine zeit mehr für die datenmodelle
 ## 22.11.2024
 1. 6954 fertig stellen
 2. 6955 anschauen
