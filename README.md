@@ -1,5 +1,9 @@
 # Plannung
 
+## 06.12.2024
+1. portfolio
+2. Repetitions aufgabe modul 162
+3. eigenes projekt beginnen
 ## 29.11.2024
 1. powerpoint präsentation zum projekt warscheinlich 4 stunden
 2. falls noch zeit übrig bleibt, dann komplexe und einfache datenmodelle repetieren
