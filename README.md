@@ -7,7 +7,7 @@
 - reflexion und zielerreichung
   1. portoflio tittelblatt fertig
   2. repititon aufgabe gelöst
-  3. eigenes projekt ideen recherchiert und gefunden
+  3. eigenes projekt ideen recherchiert und gefunden wie zb ein trainings plan fürs gym
 ## 29.11.2024
 1. powerpoint präsentation zum projekt warscheinlich 4 stunden
 2. falls noch zeit übrig bleibt, dann komplexe und einfache datenmodelle repetieren
