@@ -7,7 +7,7 @@
 - reflexion und zielerreichung
   1. portoflio tittelblatt fertig
   2. repititon aufgabe gelöst
-  3. eigenes projekt ideen recherchiert und gefunden wie zb ein trainings plan fürs gym
+  3. eigenes projekt ideen recherchiert und gefunden wie zb ein trainings plan fürs gym mit übungs vorschlägen es wird gefragt was für ein tag es ist push pull legs rest oder bauch und das programm zeigt verschiedene übungen die für den training wichtig sind und das ganze als gui fürs iphone später mit chat gpt und zuerst selber den code coden mit c# und eingebauten highscore später und einen wochen streak das man jede woche gegangen ist oder nicht 
 ## 29.11.2024
 1. powerpoint präsentation zum projekt warscheinlich 4 stunden
 2. falls noch zeit übrig bleibt, dann komplexe und einfache datenmodelle repetieren
