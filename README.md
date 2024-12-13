@@ -1,6 +1,6 @@
 # Plannung
 
-##13.12.2024
+## 13.12.2024
 1. Program protokoll erstellen
 2. gym program c# erstellen
 3. und recherchieren wegen Iphone applikationen entwickeln
