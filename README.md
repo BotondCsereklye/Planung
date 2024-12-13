@@ -1,5 +1,10 @@
 # Plannung
 
+#13.12.2024
+1. Program protokoll erstellen
+2. gym program c# fertigstellen
+3. und recherchieren wegen Iphone applikationen entwickeln
+
 ## 06.12.2024
 1. portfolio
 2. Repetitions aufgabe modul 162
