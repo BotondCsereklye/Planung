@@ -4,8 +4,8 @@
 2. recherche wie ich anfangen kann
 3. falls noch zeit bleibt im modul 164 weiterarbeiten
  reflexion und zielerreichung
-mac heruntergeladen
-keine zeit für anderes funktioniert noch nicht ganz aber datei ist heruntergeladen
+1. mac heruntergeladen
+2. keine zeit für anderes funktioniert noch nicht ganz aber datei ist heruntergeladen
 ## 13.12.2024
 1. Program protokoll erstellen
 2. gym program c# erstellen
