@@ -8,7 +8,12 @@
 1. Program protokoll erstellen
 2. gym program c# erstellen
 3. und recherchieren wegen Iphone applikationen entwickeln
-
+- reflexion und zielerreichung
+- 1. programm konte nicht erstellt werden
+  2. ich habe nötige informationen zussammengesucht
+  3. angefangen mit dem download
+  
+  
 ## 06.12.2024
 1. portfolio
 2. Repetitions aufgabe modul 162
