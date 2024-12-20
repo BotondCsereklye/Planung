@@ -1,5 +1,9 @@
 # Plannung
-
+## 20.12.2024
+1. mac herunterladen auf windows 4 stunden
+2. recherche wie ich anfangen kann
+3. falls noch zeit bleibt im modul 164 weiterarbeiten
+ 
 ## 13.12.2024
 1. Program protokoll erstellen
 2. gym program c# erstellen
