@@ -3,12 +3,15 @@
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
 3. recherche auf mac für projekt sachen zu installieren
-4. 
+reflexion und zielereichung
+1. 7710 fertig
+2. m162 theorie und aufgaben repetiert
+3. keine zeit fürs projekt
 ## 20.12.2024
 1. mac herunterladen auf windows 4 stunden
 2. recherche wie ich anfangen kann
 3. falls noch zeit bleibt im modul 164 weiterarbeiten
- reflexion und zielerreichung
+reflexion und zielereichung
 1. mac heruntergeladen
 2. keine zeit für anderes funktioniert noch nicht ganz aber datei ist heruntergeladen
 ## 13.12.2024
