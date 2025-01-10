@@ -2,6 +2,8 @@
 ## 10.1.2025
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
+3. recherche auf mac für projekt sachen zu installieren
+4. 
 ## 20.12.2024
 1. mac herunterladen auf windows 4 stunden
 2. recherche wie ich anfangen kann
