@@ -3,7 +3,9 @@
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
 3. recherche auf mac für projekt sachen zu installieren
+   
 reflexion und zielereichung
+
 1. 7710 fertig
 2. m162 theorie und aufgaben repetiert
 3. keine zeit fürs projekt
