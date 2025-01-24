@@ -4,6 +4,7 @@
 1. m117 1726
 2. m117 1727
 3. m17 1728
+4. mac os installieren für projekt mit gym app funktionierend
 ## 10.1.2025
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
