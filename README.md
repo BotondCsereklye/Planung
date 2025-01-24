@@ -4,7 +4,12 @@
 1. m117 1726
 2. m117 1727
 3. m17 1728
-4. mac os installieren für projekt mit gym app funktionierend
+4. mac os installieren für projekt mit gym app
+
+ reflexion und zielereichung
+
+Ich habe die ersten 2 aufgaben 1726 und 27 gemacht. Danach habe ich angefangen mit der installation von macos mit wmvare, was nicht geklappt hat.
+Fynn hat mir geholfen es zu installieren und es zum laufen zu bringen. Es konnten jedoch nicht alles installiert werden und dadurch werde ich gezwungen das projekt zu wächseln und für später zu verschieben.
 ## 10.1.2025
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
