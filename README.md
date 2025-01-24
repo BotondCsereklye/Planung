@@ -1,4 +1,9 @@
 # Plannung
+
+## 24.1.2025
+1. m117 1726
+2. m117 1727
+3. m17 1728
 ## 10.1.2025
 1. m164 aufgabe 7710 fertig stellen 
 2. m162 arbeiten
